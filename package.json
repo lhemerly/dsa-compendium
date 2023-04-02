@@ -1,0 +1,27 @@
+{
+  "name": "dsa-compendium",
+  "version": "0.0.1",
+  "description": "A compendium of DSA exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhemerly/dsa-compendium.git"
+  },
+  "keywords": [
+    "DSA",
+    "Node",
+    "JS"
+  ],
+  "author": "Luiz Hemerly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhemerly/dsa-compendium/issues"
+  },
+  "homepage": "https://github.com/lhemerly/dsa-compendium#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
